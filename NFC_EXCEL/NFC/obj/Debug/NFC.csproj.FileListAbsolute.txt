@@ -1,0 +1,11 @@
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\bin\Debug\NFC.exe.config
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\bin\Debug\NFC.exe
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\bin\Debug\NFC.pdb
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.csproj.AssemblyReference.cache
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.Form1.resources
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.Properties.Resources.resources
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.csproj.GenerateResource.cache
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.csproj.CoreCompileInputs.cache
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.exe
+C:\Users\fabin\source\repos\TCP_IP\NFC\NFC\obj\Debug\NFC.pdb
